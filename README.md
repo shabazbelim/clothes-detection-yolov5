@@ -1,0 +1,1 @@
+# Clothing detection using YOLOv5 (trained on DeepFashion2 datasets).
