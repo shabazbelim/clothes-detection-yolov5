@@ -14,6 +14,6 @@ Result on validation dataset.
 |---|---|---|---|
 |TBA|TBA|TBA|TBA|
 
-![result1](https://mega.nz/file/1hFgzDqA#BmNNr8wNjvS1dnpGc1pZfN63S8_OO9UeegUK-qGH2jo)
-![result2](https://mega.nz/file/x5kxhLwb#tRJMSZ1bJIyfCCHMyUiqE6TrdgOA6Hx6iImjTtBdbC0)
+![result1](data/fashion_1.png)
+![result2](data/fashion_2.png)
 ---
