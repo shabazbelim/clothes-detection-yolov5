@@ -14,6 +14,6 @@ Result on validation dataset.
 |---|---|---|---|
 |TBA|TBA|TBA|TBA|
 
-![result1]<img src="data/fashion_1.png" width="150" height="280">
-![result2]<img src="data/fashion_2.png" width="150" height="280">
+<img src="data/fashion_1.png" width="400" height="640">
+<img src="data/fashion_2.png" width="400" height="640">
 ---
