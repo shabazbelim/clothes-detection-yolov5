@@ -6,7 +6,6 @@ To get the detection run the following command.
 ---
 ## Downloads: Data & Weights
 Data can be downloaded from [link](https://github.com/switchablenorms/DeepFashion2).
-trained weights can be downloaded from [link] (https://mega.nz/file/01NlUDxA#yn_y8L56_EyEoNHoyw1NkANvbNWr9xKDgS-h6kaguGA)
---- 
+Trained weights can be downloaded from [link](https://mega.nz/file/01NlUDxA#yn_y8L56_EyEoNHoyw1NkANvbNWr9xKDgS-h6kaguGA).
 ## Results
 ---
