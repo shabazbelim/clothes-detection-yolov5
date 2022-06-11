@@ -14,6 +14,6 @@ Result on validation dataset.
 |---|---|---|---|
 |80%|71%|0.75|0.65|
 
-
+<img src="data/train_batch0.jpg"><img src="data/train_batch1.jpg"><img scr="train_batch2.jpg">
 <img src="data/fashion_1.png" width="350" height="540"><img src="data/fashion_2.png" width="400" height="540">
 ---
