@@ -10,9 +10,10 @@ Data can be downloaded from [link](https://github.com/switchablenorms/DeepFashio
 Trained weights can be downloaded from [link](https://mega.nz/file/01NlUDxA#yn_y8L56_EyEoNHoyw1NkANvbNWr9xKDgS-h6kaguGA).
 ## Results
 Result on validation dataset.
-|Precision|Recall|mAP50|mAP95|
+|Precision|Recall|mAP 0.50|mAP 0.5:0.95|
 |---|---|---|---|
-|TBA|TBA|TBA|TBA|
+|80%|71%|0.75|0.65|
+
 
 <img src="data/fashion_1.png" width="350" height="540"><img src="data/fashion_2.png" width="400" height="540">
 ---
