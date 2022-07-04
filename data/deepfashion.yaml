@@ -1,0 +1,8 @@
+path: ../../database/deepfashion2/  # dataset root dir
+train: deepfashion_train.txt  # train images (relative to 'path') 118287 images
+val: deepfashion_val.txt  # val images (relative to 'path') 5000 images
+# test: test.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+nc: 13  # number of classes
+names: ["short sleeve top", "long sleeve top", "short sleeve outwear", "long sleeve outwear", "vest", "sling", "shorts", "trousers", "skirt", "short sleeve dress", "long sleeve dress", "vest dress", "sling dress"]
